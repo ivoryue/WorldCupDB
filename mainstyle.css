@@ -1,0 +1,196 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 62.5%;
+	font-family: Insolent, Garamond;
+	background: #000000;
+	height: 100%;
+}
+
+h1 { font-family: World Cup logos; font-size: 8.0em; color: #EEBC1D; font-weight: normal; text-shadow: -3px 3px 5px #B0752D;}
+h2 { font-size: 6em; color: #EEBC1D; font-weight: normal; text-shadow: -3px 5px 5px #B0752D;}
+
+
+.clear { clear: both; }
+
+section{
+	position: absolute;
+	background: #000000;
+	margin: auto;
+	top:0;
+    bottom:0;
+    left:0;
+    right:0;
+	overflow: hidden;
+}
+div#left {
+	float: left;
+	background-image: url(images/trophy.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	text-align: center;
+	width: 50%;
+	height: 100%;
+	padding-top: 8%;
+}
+
+div#right {
+	margin-left: 50%;
+	height: 100%;
+	background: #000000;
+}
+.square {
+	float: left;
+	position: relative;
+	width: 32%;
+	padding-bottom: 33%;
+	overflow:hidden;
+}
+.content {
+	position: absolute;
+	height: 80%;
+	width: 90%;
+	padding: 15% 15%;
+	
+}
+button{
+	font-family: Aller;
+	text-shadow: -3px 3px 5px #000000;
+	background-color: #FFFFFF;
+	border: none;
+	color: #FFFFFF;
+	text-align: center;
+	width: 4.9em;
+	height:4.9em; 
+	font-size: 2.8em;
+	/* box-shadow: -10px 10px 15px #B0752D; */
+}
+
+.q1{
+	background-image: url(images/q1.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);	
+}
+
+.q1:hover{
+	background-image: url(images/q1.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q2{
+	background-image: url(images/q2.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q2:hover{
+	background-image: url(images/q2.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q3{
+	background-image: url(images/q3.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q3:hover{
+	background-image: url(images/q3.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q4{
+	background-image: url(images/q4.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q4:hover{
+	background-image: url(images/q4.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q5{
+	background-image: url(images/q5.jpeg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q5:hover{
+	background-image: url(images/q5.jpeg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q6{
+	background-image: url(images/q6.jpg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q6:hover{
+	background-image: url(images/q6.jpg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q7{
+	background-image: url(images/q7.jpg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q7:hover{
+	background-image: url(images/q7.jpg);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q8{
+	background-image: url(images/q8.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q8:hover{
+	background-image: url(images/q8.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
+
+.q9{
+	background-image: url(images/q9.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(80%);
+}
+
+.q9:hover{
+	background-image: url(images/q9.png);
+	background-size: 100%;
+    background-repeat: no-repeat;
+	-webkit-filter: grayscale(0%);
+}
