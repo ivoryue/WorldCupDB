@@ -35,8 +35,5 @@ The project implements 9 queries:
 
 ## Data Sources
 http://www.fifa.com/ 
-https://en.wikipedia.org/wiki/National_team_appearances_in_the_FIFA_World_Cup 
-https://en.wikipedia.org/wiki/FIFA_World_Cup_awards 
 https://en.wikipedia.org/wiki/19XX_FIFA_World_Cup 
-https://en.wikipedia.org/wiki/19XX_FIFA_World_Cup_squads
 https://github.com/geraldb
