@@ -1,6 +1,6 @@
 # About This Project
 
-https://cloud.githubusercontent.com/assets/16885033/18914489/59df5a44-855b-11e6-896f-af1e714b1b4a.gif
+![main](https://cloud.githubusercontent.com/assets/16885033/18914489/59df5a44-855b-11e6-896f-af1e714b1b4a.gif)
 
 ## Introduction
 
