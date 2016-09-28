@@ -16,37 +16,37 @@ The goal of this project is to design and implement a database system for the FI
 
 The project implements 9 queries:
 
-1. **Cups Query**: This query takes a year and a team as input. It will return the host country, team rankings of the given Cup and game results for the given team.
+**Cups Query**: This query takes a year and a team as input. It will return the host country, team rankings of the given Cup and game results for the given team.
 
 ![q1](https://cloud.githubusercontent.com/assets/16885033/18914491/5d02b658-855b-11e6-837c-3dd29c16a21d.gif)
 
-2. **Players Query**: This query takes user input and will return the player’s participation in all Cups, the country he played with, goals he scored, birthday and age. For example, by entering Ronaldo, it will return information for both Portuguese footballer Cristiano Ronaldo and Brazilian footballer Ronaldo. Therefore we suggest user to enter players’ full name.
+**Players Query**: This query takes user input and will return the player’s participation in all Cups, the country he played with, goals he scored, birthday and age. For example, by entering Ronaldo, it will return information for both Portuguese footballer Cristiano Ronaldo and Brazilian footballer Ronaldo. Therefore we suggest user to enter players’ full name.
 
 ![q2](https://cloud.githubusercontent.com/assets/16885033/18914492/5e53da5a-855b-11e6-9ba0-5709bcbf6a51.gif)
 
-3. **List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
+**List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
 
 ![q3](https://cloud.githubusercontent.com/assets/16885033/18914493/5fa66f6c-855b-11e6-96ab-a0a84a27c18a.gif)
 
-4. **Team History Query**: This query takes a team and a year as input. It will return the team’s all-time achievement along with the position it obtained in a given Cup.
+**Team History Query**: This query takes a team and a year as input. It will return the team’s all-time achievement along with the position it obtained in a given Cup.
 
 ![q4](https://cloud.githubusercontent.com/assets/16885033/18914495/62ceeb4c-855b-11e6-88d8-99574b735a10.gif)
 
-5. **Country Squads Query**: This query takes a team and a year (or all years) as input. It will list all participated players of the year(s) and number of goals they scored.
+**Country Squads Query**: This query takes a team and a year (or all years) as input. It will list all participated players of the year(s) and number of goals they scored.
 
 ![q5](https://cloud.githubusercontent.com/assets/16885033/18914498/64d6a56a-855b-11e6-9810-d5c9c36bc6ea.gif)
 
-6. **Interactive Map (Demo not available)**: This query will display a world map with each country that has attended world cup having a specific color based upon certain statistics. These statistics include how many times the countries within that continent have participated, how many wins that continent has, and how many times that continent has hosted a World Cup.
+**Interactive Map (Demo not available)**: This query will display a world map with each country that has attended world cup having a specific color based upon certain statistics. These statistics include how many times the countries within that continent have participated, how many wins that continent has, and how many times that continent has hosted a World Cup.
 
-7. **Awards Query**: This query takes a year as input. Its output consists of the winners of the Golden Ball, Golden Boot, and Golden Glove awards along with relevant pictures.
+**Awards Query**: This query takes a year as input. Its output consists of the winners of the Golden Ball, Golden Boot, and Golden Glove awards along with relevant pictures.
 
 ![q7](https://cloud.githubusercontent.com/assets/16885033/18914501/67758f66-855b-11e6-8f96-094cbe22563f.gif)
 
-8. **Historical Videos**: This query takes a year as input. It will return a page that has embedded videos of that year’s World Cup. Such videos include top goals, final game highlights, or most exciting moments.
+**Historical Videos**: This query takes a year as input. It will return a page that has embedded videos of that year’s World Cup. Such videos include top goals, final game highlights, or most exciting moments.
 
 ![q8](https://cloud.githubusercontent.com/assets/16885033/18914504/694741d6-855b-11e6-875c-8b1219fe43c8.gif)
 
-9. **Head To Head (Team Comparison) Query**: This query takes two teams as input. It will then return information about each game between the two teams throughout the history of the World Cup. It will also produce a graph comparing the rank for each team for each year they participated.
+**Head To Head (Team Comparison) Query**: This query takes two teams as input. It will then return information about each game between the two teams throughout the history of the World Cup. It will also produce a graph comparing the rank for each team for each year they participated.
 
 ![q9](https://cloud.githubusercontent.com/assets/16885033/18914510/6b82146c-855b-11e6-86f4-c3e0e2b9a37a.gif)
 
