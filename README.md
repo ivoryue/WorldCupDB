@@ -33,6 +33,6 @@ The project implements 9 queries:
 
 9. Head To Head (Team Comparison) Query: This query takes two teams as input. It will then return information about each game between the two teams throughout the history of the World Cup. It will also produce a graph comparing the rank for each team for each year they participated.
 
-# Data Sources
+## Data Sources
 http://www.fifa.com/ https://en.wikipedia.org/wiki/National_team_appearances_in_the_FIFA_World_Cup https://en.wikipedia.org/wiki/FIFA_World_Cup_awards https://en.wikipedia.org/wiki/19XX_FIFA_World_Cup https://en.wikipedia.org/wiki/19XX_FIFA_World_Cup_squads
 https://github.com/geraldb
