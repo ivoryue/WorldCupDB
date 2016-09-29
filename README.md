@@ -4,11 +4,11 @@
 
 The goal of this project is to design and implement a database system for the FIFA World Cup. The project has three major portions:
 
-1. Data ETL: Study basic knowledge of FIFA World Cup and design database schema. Base on the research, write scripts to ETL data from public online sources to MySQL Database.
+1. **Data ETL**: Study basic knowledge of FIFA World Cup and design database schema. Base on the research, write scripts to ETL data from public online sources to MySQL Database.
 
-2. SQL queries and Web UI design: Write SQL queries. Create and implement the web-based user interface that can query the database through PHP functions.
+2. **SQL Queries and Web UI Design**: Write SQL queries. Create and implement the web-based user interface that can query the database through PHP functions.
 
-3. Data Visualization: Convert data into plots or interactive maps that can help uses better comprehend the information. JavaScript HighChart and Tableau were used in this part.
+3. **Data Visualization**: Convert data into plots or interactive maps that can help uses better comprehend the information. JavaScript HighChart and Tableau were used in this part.
 
 ![main](https://cloud.githubusercontent.com/assets/16885033/18914489/59df5a44-855b-11e6-896f-af1e714b1b4a.gif)
 
