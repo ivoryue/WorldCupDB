@@ -1,4 +1,4 @@
-# About This Project
+# FIFA World Cup Database
 
 ## Introduction
 
