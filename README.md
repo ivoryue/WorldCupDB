@@ -36,7 +36,7 @@ The project implements 9 queries:
 
 ![q5](https://cloud.githubusercontent.com/assets/16885033/18914498/64d6a56a-855b-11e6-9810-d5c9c36bc6ea.gif)
 
-**Interactive Map (Demo not available)**: This query will display a world map with each country that has attended world cup having a specific color based upon certain statistics. These statistics include how many times the countries within that continent have participated, how many wins that continent has, and how many times that continent has hosted a World Cup.
+**Interactive Map (Tableau demo currently not available, planning on switching to JavaScript)**: This query will display a world map with each country that has attended world cup having a specific color based upon certain statistics. These statistics include how many times the countries within that continent have participated, how many wins that continent has, and how many times that continent has hosted a World Cup.
 
 **List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
 
