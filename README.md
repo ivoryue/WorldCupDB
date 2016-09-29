@@ -20,7 +20,7 @@ The project implements 9 queries:
 
 ![q1](https://cloud.githubusercontent.com/assets/16885033/18914491/5d02b658-855b-11e6-837c-3dd29c16a21d.gif)
 
-**Players Query**: This query takes user input and will return the player’s participation in all Cups, the country he played with, goals he scored, birthday and age. For example, by entering Ronaldo, it will return information for both Portuguese footballer Cristiano Ronaldo and Brazilian footballer Ronaldo. Therefore we suggest user to enter players’ full name.
+**Players Query**: This query takes user text input and will return the player’s participation in all Cups, the country he played with, goals he scored, birthday and age. For example, by entering Ronaldo, it will return information for both Portuguese footballer Cristiano Ronaldo and Brazilian footballer Ronaldo. Therefore we suggest user to enter players’ full name.
 
 ![q2](https://cloud.githubusercontent.com/assets/16885033/18914492/5e53da5a-855b-11e6-9ba0-5709bcbf6a51.gif)
 
