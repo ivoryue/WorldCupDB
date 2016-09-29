@@ -38,6 +38,10 @@ The project implements 9 queries:
 
 **Interactive Map (Demo not available)**: This query will display a world map with each country that has attended world cup having a specific color based upon certain statistics. These statistics include how many times the countries within that continent have participated, how many wins that continent has, and how many times that continent has hosted a World Cup.
 
+**List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
+
+![q3](https://cloud.githubusercontent.com/assets/16885033/18914493/5fa66f6c-855b-11e6-96ab-a0a84a27c18a.gif)
+
 **Awards Query**: This query takes a year as input. Its output consists of the winners of the Golden Ball, Golden Boot, and Golden Glove awards along with relevant pictures.
 
 ![q7](https://cloud.githubusercontent.com/assets/16885033/18914501/67758f66-855b-11e6-8f96-094cbe22563f.gif)
@@ -46,11 +50,7 @@ The project implements 9 queries:
 
 ![q8](https://cloud.githubusercontent.com/assets/16885033/18914504/694741d6-855b-11e6-875c-8b1219fe43c8.gif)
 
-**List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
-
-![q3](https://cloud.githubusercontent.com/assets/16885033/18914493/5fa66f6c-855b-11e6-96ab-a0a84a27c18a.gif)
-
-## Data Sources
+## Data Sources (Back-end SQL database available upon request)
 http://www.fifa.com/ 
 
 https://en.wikipedia.org/wiki/19XX_FIFA_World_Cup 
