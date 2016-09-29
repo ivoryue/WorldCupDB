@@ -1,7 +1,5 @@
 # About This Project
 
-![main](https://cloud.githubusercontent.com/assets/16885033/18914489/59df5a44-855b-11e6-896f-af1e714b1b4a.gif)
-
 ## Introduction
 
 The goal of this project is to design and implement a database system for the FIFA World Cup. The project has three major portions:
@@ -11,6 +9,8 @@ The goal of this project is to design and implement a database system for the FI
 2. SQL queries and Web UI design: Write SQL queries. Create and implement the web-based user interface that can query the database through PHP functions.
 
 3. Data Visualization: Convert data into plots or interactive maps that can help uses better comprehend the information. JavaScript HighChart and Tableau was used in this part.
+
+![main](https://cloud.githubusercontent.com/assets/16885033/18914489/59df5a44-855b-11e6-896f-af1e714b1b4a.gif)
 
 ## Function Overview
 
@@ -24,9 +24,9 @@ The project implements 9 queries:
 
 ![q2](https://cloud.githubusercontent.com/assets/16885033/18914492/5e53da5a-855b-11e6-9ba0-5709bcbf6a51.gif)
 
-**List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
+**Head To Head (Team Comparison) Query**: This query takes two teams as input. It will then return information about each game between the two teams throughout the history of the World Cup. It will also produce a graph comparing the rank for each team for each year they participated.
 
-![q3](https://cloud.githubusercontent.com/assets/16885033/18914493/5fa66f6c-855b-11e6-96ab-a0a84a27c18a.gif)
+![q9](https://cloud.githubusercontent.com/assets/16885033/18914510/6b82146c-855b-11e6-86f4-c3e0e2b9a37a.gif)
 
 **Team History Query**: This query takes a team and a year as input. It will return the team’s all-time achievement along with the position it obtained in a given Cup.
 
@@ -46,9 +46,9 @@ The project implements 9 queries:
 
 ![q8](https://cloud.githubusercontent.com/assets/16885033/18914504/694741d6-855b-11e6-875c-8b1219fe43c8.gif)
 
-**Head To Head (Team Comparison) Query**: This query takes two teams as input. It will then return information about each game between the two teams throughout the history of the World Cup. It will also produce a graph comparing the rank for each team for each year they participated.
+**List of Super Stars**: This query lists all the players that played in more than a Cup and the goals they scored in each of them.
 
-![q9](https://cloud.githubusercontent.com/assets/16885033/18914510/6b82146c-855b-11e6-86f4-c3e0e2b9a37a.gif)
+![q3](https://cloud.githubusercontent.com/assets/16885033/18914493/5fa66f6c-855b-11e6-96ab-a0a84a27c18a.gif)
 
 ## Data Sources
 http://www.fifa.com/ 
